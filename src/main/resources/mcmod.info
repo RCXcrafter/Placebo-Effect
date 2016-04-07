@@ -1,0 +1,15 @@
+[
+{
+  "modid": "PEmod",
+  "name": "P.E.",
+  "description": "Makes some massive changes to your game!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "updateUrl": "",
+  "authorList": ["RCXcrafter and ArloTheEpic"],
+  "credits": "Original idea by ArloTheEpic, completely recoded from schratch by RCXcrafter",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
